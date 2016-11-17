@@ -1,0 +1,57 @@
+.bg-image {
+	background-image: url("../images/backdrop.jpg");
+	background-color: rgba(255, 0, 0, 0.6);
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bg-image1 {
+	height: 600px;
+	background-color: rgba(20, 20, 20, 0.4);
+}
+
+.tabs .tab a {
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(255, 255, 255, 1);
+}
+
+.tabs .tab a:HOVER {
+	background: rgba(0, 0, 0, 0.8);
+	color: #ffff00;
+}
+
+.dropdown-content {
+	width: 250px;
+	height: 300px;
+	position: relative;
+	display: none;
+}
+
+ul .loginform {
+	width: 250px;
+	position: absolute;
+	top: 0px;
+	left: 738.22px;
+	opacity: 1;
+	display: block;
+}
+
+.container#filterContainer {
+	width: 25%;
+	float: left;
+}
+
+.container.search p {
+	box-sizing: border-box;
+	border-style: solid;
+}
+
+.btn#modifySearch {
+	float: right;
+	margin-right: 20px;
+}
+
+.input-field label {
+	color: #ffffaa;
+}

@@ -1,0 +1,31 @@
+<table>
+    <tr>
+        <td class = 'red darken-2 white-text'>Day 1</td>
+        <td class = 'grey lighten-4 black-text'>Arrival</td>
+    </tr>
+    <tr>
+        <td colspan = '2'>
+        As this is going to be your first day of the trip, we have kept it light for you to start exploring the place on your own.
+        Flights timings / Arrival timing by any other mode may vary.
+        </td>
+    </tr>
+    <tr>
+        <td class = 'red darken-2 white-text'>Day 2</td>
+        <td class = 'grey lighten-4 black-text'>Stay</td>
+    </tr>
+    <tr>
+        <td colspan = '2'>
+        Spend your day as per activities added in the package . In any case , if you want to do different activities than the one Included/not included , Use Customization. In case of any travel planned on this day to other city ,
+        we recommend to keep it light in terms of activities.
+        </td>
+    </tr>
+    <tr>
+        <td class = 'red darken-2 white-text'>Last day</td>
+        <td class = 'grey lighten-4 black-text'>Departure</td>
+    </tr>
+    <tr>
+        <td colspan = '2'>
+        This is your last day of the Tour. We advise that you should plan your activities for this day depending on your flight timing.
+        </td>
+    </tr>
+</table>

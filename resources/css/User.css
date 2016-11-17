@@ -1,0 +1,35 @@
+.card {
+	padding:2%;
+}
+
+.collapsible-body{
+	padding:15px;
+}
+
+
+.card-title{
+	font-size:10px;
+}
+
+body{
+	
+	background-color: #f5f5f5 ;
+}
+
+.optionTabs li:selected{
+	background-color: red;
+}
+
+.largeText{
+	font-size:22px;
+}
+
+.smallText{
+	font-size:14px;
+}
+
+/* .tabs .tab a {
+    background-color: #0C2FDC;
+    color: rgba(255, 255, 255, 1);
+}
+ */

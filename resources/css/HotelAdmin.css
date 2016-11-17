@@ -1,0 +1,45 @@
+.btn_book{
+	
+	margin:5%;
+}
+
+.smallText{
+	font-size:12px;
+}
+
+.hotelTable{
+	
+	padding:1px;
+}
+
+.img{
+		height:100%;
+}
+
+.logo{
+	max-height:60px;
+}
+.imgData{
+	background-size : cover;
+	height:100%;
+}
+
+
+
+.normalText{
+	font-size:18px;
+}
+
+
+.login{
+
+	padding :10%;
+	margin-top:20%;
+}
+
+.loginTable{
+	margin:20px;
+	border-spacing: 50px 30px 50px;
+	border:20px;
+	padding:20px;
+}
